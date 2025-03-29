@@ -1,4 +1,4 @@
-# Calculator
+# Scientific_Calculator
 This project is from [The Odin Project](https://www.theodinproject.com/paths/foundations/courses/foundations/lessons/calculator). This project was completed before TOP clarified the instructions to only evaluate a single pair of numbers at a time. **If you are doing TOP, do not attempt to re-create this functionality!**
 
 ## Code, Re-Factor, Repeat...
